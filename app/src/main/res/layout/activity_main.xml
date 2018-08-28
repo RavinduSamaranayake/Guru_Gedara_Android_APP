@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    android:background="@color/White"
+    tools:context="com.example.user.guruforstudent.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/tothetop" />
+
+    <Button
+        android:id="@+id/btnIns"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:background="?android:attr/textColorLink"
+        android:text="@string/next"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="15dp"
+        android:fontFamily="serif"
+        android:text="@string/welcome"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display3"
+        android:textColor="@color/Blue"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+</RelativeLayout>

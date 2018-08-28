@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Guru</string>
+    <string name="next">Next</string>
+    <string name="institue_name">Institue Name</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="todo">TODO</string>
+    <string name="institute_name">Institute Name</string>
+
+    <string name="choose_your_class">Choose Your Class</string>
+    <string name="ok">OK</string>
+    <string name="back">Back</string>
+    <string name="welcome">WELCOME</string>
+    <string name="register_and_sign_in">Register and Sign in</string>
+    <string name="username">UserName</string>
+    <string name="string">......</string>
+    <string name="login_in">Login in</string>
+    <string name="or">------------- OR --------------</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="auth">Auth</string>
+    <string name="institutes">Institutes</string>
+    <string name="timetable">Timetable</string>
+    <string name="messages">Messages</string>
+    <string name="profile">Profile</string>
+    <string name="main">Main</string>
+    <string name="classes">Classes</string>
+    <string name="new_tutes">New Tutes</string>
+    <string name="class_01">Class 01</string>
+    <string name="view">View</string>
+    <string name="tute_01">Tute 01</string>
+    <string name="scan_your_card">Scan Your Card</string>
+    <string name="scan">Scan</string>
+    <string name="institute_01">Institute 01</string>
+    <string name="payment">Payment</string>
+    <string name="name">name</string>
+
+    <string name="confirm_password">Confirm Password</string>
+    <string name="textview">TextView</string>
+
+    <string name="password_must_be_atleast_8_characters">Password(must be atleast 8 characters)</string>
+
+    <string name="string_last_name" />
+    <string name="string_string_last_name" />
+    <string name="string_string_string_last_name" />
+    <string name="string_string_string_string_last_name" />
+    <string name="string_string_string_string_string_last_name" />
+    <string name="string_string_string_string_string_string_last_name" />
+    <string name="string_string_string_string_string_string_string_last_name" />
+    <string name="string_string_string_string_string_string_string_string_last_name" />
+    <string name="string_string_string_string_string_string_string_string_string_last_name">lname</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="register">REGISTER</string>
+    <string name="first_name">First Name</string>
+
+
+    <string name="last_name">Last Name</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+
+
+</resources>
